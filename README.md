@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm a 2nd year B.Tech student in AI & Data Science at SITRC with a Diploma in Computer Engineering.<br><br>💻 Skilled in Python, Java, C/C++, HTML, CSS, JavaScript, MySQL, JSP, Servlets.<br><br>📚 Learning Machine Learning and DSA, and building real-world tech projects.<br><br>🚀 Passionate about tech, problem-solving, and open to internships & collaborations.<br><br>
+👋 I'm a 3rd year B.Tech student in AI & Data Science at SITRC with a Diploma in Computer Engineering.<br><br>💻 Skilled in Python, Java, C/C++, HTML, CSS, JavaScript, MySQL, JSP, Servlets.<br><br>📚 Learning Machine Learning and DSA, and building real-world tech projects.<br><br>🚀 Passionate about tech, problem-solving, and open to internships & collaborations.<br><br>
 
 
 ## 🌐 Socials:

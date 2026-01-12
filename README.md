@@ -9,18 +9,16 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmisanas07&show_icons=true&theme=dark" alt="Laxmi's Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=laxmisanas07&show_icons=true&theme=dark" alt="Laxmi's Stats" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=laxmisanas07&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmisanas07&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=laxmisanas07&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=laxmisanas07&icon=0&color=3" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=laxmisanas07&color=blue&style=flat-square" alt="Visitor Count" />
 </p>

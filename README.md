@@ -11,8 +11,3 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=laxmisanas07&theme=dark" alt="GitHub Streak" />
 </p>
-
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxmisanas07&color=blue&style=flat-square" alt="Visitor Count" />
-</p>

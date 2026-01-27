@@ -1,61 +1,52 @@
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Laxmi%20Sanas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 AI & Data Science Enthusiast | Full Stack Developer</h3>
+<h3 align="center">🚀 AI & Data Science Student | Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/laxmisanas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
   <a href="https://discord.gg/laxmi0366">
-    <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=flat&logo=discord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎓 **3rd Year B.Tech (AI & Data Science)** @ SITRC  
-🎓 **Diploma in Computer Engineering**  
-💡 Passionate about **AI, ML, DSA & Real-World Projects**
+## 👋 About Me
+🎓 3rd Year **B.Tech (AI & Data Science)** @ SITRC  
+🎓 Diploma in **Computer Engineering**
 
-- 🔭 Currently working on **Machine Learning projects**
-- 🌱 Learning **DSA + Advanced ML**
+- 💡 Passionate about **AI, Cybersecurity & Real-World Projects**
+- 🧠 Strong foundation in **C, Java, Python**
+- 🔭 Currently learning **Machine Learning & DSA**
 - 🤝 Open to **Internships & Collaborations**
-- ⚡ Fun fact: *Debugging is my cardio*
 
 ---
 
-## 🧠 Tech Stack
-
-### 🚀 Languages & Web
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,php,html,css,js,nodejs" />
-</p>
-
-### 📊 Databases & Data Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### 🎨 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,figma,canva" />
+## 💻 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,mysql,git" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (REAL PROJECTS)
 | Project | Description | Tech |
-|--------|------------|------|
-| 🤖 ML Prediction System | Smart predictions using ML models | Python, ML |
-| 🌐 Full Stack App | Dynamic web application | HTML, JS, MySQL |
-| 📊 Data Analysis | Insights & visualization | NumPy, Python |
-
-> 🚧 *More projects coming soon…*
+|-------|------------|------|
+| 🔐 **Bit-Kavach Encryption Tool** | Data encryption & security utility | Python |
+| 🔥 **Agni Firewall** | Firewall & security concept | Python |
+| 👁️ **Trinetra Scanner** | Detection / scanning system | Python |
+| 🏥 **Hospital Management System** | Real-world DB project | Java, MySQL |
+| 💬 **WhatsApp / Messenger Clone** | Chat application | Java / JS |
+| 🎮 **JetStorm Galaxy Defender** | Game development | Python |
+| 🔳 **QR Code Generator** | Utility tool | Python |
+| 🧠 **QuizWhiz** | Logic based quiz app | Python |
+| 🔑 **Password Generator** | Secure password generator | Python |
+| 🧮 **C Programming Challenge** | Logic & DSA practice | C |
 
 ---
 
@@ -68,23 +59,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laxmisanas07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmisanas07&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxmisanas07&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=laxmisanas07&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## ✨ Quote I Live By
 > *“Consistency beats talent when talent doesn’t work consistently.”*
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>

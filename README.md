@@ -1,31 +1,91 @@
-# 💫 About Me:
-👋 I'm a **3rd year B.Tech student in AI & Data Science** at SITRC with a Diploma in Computer Engineering.
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Laxmi%20Sanas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💻 **Skilled in:** Python, Java, C/C++, HTML, CSS, JavaScript, MySQL, JSP, Servlets.  
-📚 **Currently:** Learning Machine Learning and DSA, and building real-world tech projects.  
-🚀 **Goal:** Passionate about tech, problem-solving, and open to internships & collaborations.
+<h3 align="center">🚀 AI & Data Science Enthusiast | Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/laxmisanas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://discord.gg/laxmi0366">
+    <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=flat&logo=discord">
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/laxmi0366) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmisanas) 
+## 👨‍💻 About Me
+🎓 **3rd Year B.Tech (AI & Data Science)** @ SITRC  
+🎓 **Diploma in Computer Engineering**  
+💡 Passionate about **AI, ML, DSA & Real-World Projects**
+
+- 🔭 Currently working on **Machine Learning projects**
+- 🌱 Learning **DSA + Advanced ML**
+- 🤝 Open to **Internships & Collaborations**
+- ⚡ Fun fact: *Debugging is my cardio*
 
 ---
 
-## 💻 Tech Stack:
+## 🧠 Tech Stack
 
 ### 🚀 Languages & Web
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,php,html,css,js,nodejs" />
+</p>
 
 ### 📊 Databases & Data Science
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-### 🎨 Design & Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🎨 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,figma,canva" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![Laxmi's GitHub Streak](https://streak-stats.demolab.com/?user=laxmisanas07&theme=dark)
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|--------|------------|------|
+| 🤖 ML Prediction System | Smart predictions using ML models | Python, ML |
+| 🌐 Full Stack App | Dynamic web application | HTML, JS, MySQL |
+| 📊 Data Analysis | Insights & visualization | NumPy, Python |
+
+> 🚧 *More projects coming soon…*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laxmisanas07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laxmisanas07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmisanas07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laxmisanas07&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote I Live By
+> *“Consistency beats talent when talent doesn’t work consistently.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer"/>
+</p>

@@ -61,13 +61,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laxmisanas07&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## ✨ Quote I Live By
 > *“Consistency beats talent when talent doesn’t work consistently.”*
 

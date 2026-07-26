@@ -17,7 +17,7 @@
 ---
 
 ## 👋 About Me
-🎓 3rd Year **B.Tech (AI & Data Science)** @ SITRC  
+🎓 Final Year **B.Tech (AI & Data Science)** @ SITRC  
 🎓 Diploma in **Computer Engineering**
 
 - 💡 Passionate about **AI, Cybersecurity & Real-World Projects**

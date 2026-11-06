@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 100" width="100%" height="100" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1526" />
+      <stop offset="100%" stop-color="#0a0f1d" />
+    </linearGradient>
+    <linearGradient id="statGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="statGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <linearGradient id="statGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+    <linearGradient id="statGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Card 1: Repositories -->
+  <g transform="translate(0, 0)">
+    <rect x="1" y="1" width="208" height="96" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="20" y="32" fill="#94a3b8" class="mono" font-size="11" font-weight="600" letter-spacing="1">CODEBASE</text>
+    <text x="20" y="64" fill="url(#statGrad1)" class="sans" font-size="28" font-weight="800">65+</text>
+    <text x="20" y="82" fill="#64748b" class="sans" font-size="11">Public Repositories</text>
+  </g>
+
+  <!-- Card 2: Academic CGPA -->
+  <g transform="translate(224, 0)">
+    <rect x="1" y="1" width="208" height="96" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="20" y="32" fill="#94a3b8" class="mono" font-size="11" font-weight="600" letter-spacing="1">ACADEMICS</text>
+    <text x="20" y="64" fill="url(#statGrad2)" class="sans" font-size="28" font-weight="800">9.34</text>
+    <text x="20" y="82" fill="#64748b" class="sans" font-size="11">B.Tech CGPA • Rank 1</text>
+  </g>
+
+  <!-- Card 3: Research Papers -->
+  <g transform="translate(448, 0)">
+    <rect x="1" y="1" width="208" height="96" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="20" y="32" fill="#94a3b8" class="mono" font-size="11" font-weight="600" letter-spacing="1">RESEARCH</text>
+    <text x="20" y="64" fill="url(#statGrad3)" class="sans" font-size="28" font-weight="800">2 Papers</text>
+    <text x="20" y="82" fill="#64748b" class="sans" font-size="11">Elsevier EAAI &amp; IJARSCT</text>
+  </g>
+
+  <!-- Card 4: Global Recognition -->
+  <g transform="translate(672, 0)">
+    <rect x="1" y="1" width="207" height="96" rx="12" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.2" />
+    <text x="20" y="32" fill="#94a3b8" class="mono" font-size="11" font-weight="600" letter-spacing="1">RECOGNITION</text>
+    <text x="20" y="64" fill="url(#statGrad4)" class="sans" font-size="28" font-weight="800">Top 10%</text>
+    <text x="20" y="82" fill="#64748b" class="sans" font-size="11">NASA Space Apps Nominee</text>
+  </g>
+</svg>
+

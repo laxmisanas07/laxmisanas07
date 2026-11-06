@@ -1,10 +1,14 @@
 <!-- ==========================================================================
      LAXMI SANAS - PREMIUM DEVELOPER PROFILE DASHBOARD
-     Linear / Vercel Dark Theme Developer Architecture
+     Linear / Vercel Dark Theme & Research Journal Dual-Mode Architecture
      ========================================================================== -->
 
 <p align="center">
-  <img src="assets/header-banner.svg" alt="Laxmi Sanas - AI & Data Science Engineer" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-dark.svg" alt="Laxmi Sanas - AI &amp; Data Science Engineer" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -22,9 +26,13 @@
   </a>
 </p>
 
-<!-- Metrics Overview Strip -->
+<!-- Metrics Overview Strip (Adaptive Light/Dark Theme) -->
 <p align="center">
-  <img src="assets/metrics-overview.svg" alt="Metrics Overview: 65+ Repos, 9.34 CGPA, 2 Papers, NASA Global Nominee" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
+    <img src="assets/metrics-dark.svg" alt="Metrics Overview: 65+ Repos, 9.34 CGPA, 2 Papers, NASA Global Nominee" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -47,7 +55,42 @@ specializations:
 availability: Open to AI/ML Engineering & Software Development Roles (2026–2027)
 ```
 
-I am an **Artificial Intelligence & Data Science undergraduate** and **systems developer** with **65+ public repositories** on GitHub. My technical trajectory bridges theoretical machine learning research (authoring papers on counterfactual recourse and nutritional systems) with production software engineering (packet-inspecting firewalls, socket-level peer-to-peer messaging, and scalable web architectures).
+I am an **Artificial Intelligence & Data Science undergraduate** and **systems engineer** with **65+ public repositories** on GitHub. My technical trajectory bridges theoretical machine learning research (authoring papers on counterfactual recourse and nutritional systems) with production software engineering (packet-inspecting firewalls, socket-level peer-to-peer messaging, and scalable web architectures).
+
+---
+
+## 🎓 Education & Academic Foundations
+
+<table>
+  <thead>
+    <tr>
+      <th>Degree / Qualification</th>
+      <th>Institution</th>
+      <th>Duration</th>
+      <th>Performance / Standing</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>B.Tech in Artificial Intelligence &amp; Data Science</strong></td>
+      <td>Sandip Institute of Technology &amp; Research Centre (SITRC), Nashik</td>
+      <td>2024 – 2027</td>
+      <td><strong>CGPA: 9.34 / 10</strong> (Department Academic Rank 1 / Topper)</td>
+    </tr>
+    <tr>
+      <td><strong>Diploma in Computer Engineering</strong></td>
+      <td>Shree Mahavir Education Society, Nashik</td>
+      <td>2021 – 2024</td>
+      <td><strong>Percentage: 87.14%</strong> (First Class with Distinction)</td>
+    </tr>
+    <tr>
+      <td><strong>Secondary School Certificate (SSC)</strong></td>
+      <td>CDO Meri Highschool, Nashik</td>
+      <td>2011 – 2021</td>
+      <td><strong>Percentage: 84.40%</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -255,6 +298,17 @@ I am an **Artificial Intelligence & Data Science undergraduate** and **systems d
 - **5-Day AI Agents Intensive Course** — *Google & Kaggle*
 - **Full Stack Web Development Certification** — *Web Stack Academy*
 - **Cyber Security Professional Intern** — *CyberSapiens United LLP*
+
+---
+
+## 💼 Industry Internships & Experience
+
+- **Full Stack Web Development Intern** — *Web Stack Academy*
+  - Built scalable full-stack web applications, REST APIs, and responsive database-backed services.
+- **Cyber Security Intern** — *CyberSapiens United LLP*
+  - Conducted vulnerability assessments, network traffic analysis, and secure authentication evaluations.
+- **Web Development & Design Intern** — *Oasis Infobyte*
+  - Designed interactive UI components, structured frontend codebases, and improved application accessibility.
 
 ---
 

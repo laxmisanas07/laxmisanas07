@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 260" width="100%" height="260" fill="none">
+  <defs>
+    <!-- Light Mode Paper Gradient -->
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8f5ee" />
+      <stop offset="50%" stop-color="#f5f2eb" />
+      <stop offset="100%" stop-color="#efece3" />
+    </linearGradient>
+
+    <!-- Subtle Hairline Grid -->
+    <pattern id="gridLight" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#d9d5ca" stroke-width="0.75" stroke-opacity="0.45" />
+    </pattern>
+
+    <!-- Border Gradient Light -->
+    <linearGradient id="borderLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f4d3a" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#d9d5ca" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#1f4d3a" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .serif { font-family: 'Instrument Serif', 'Fraunces', Georgia, serif; }
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, monospace; }
+    .sans { font-family: 'Geist', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="876" height="256" rx="18" fill="url(#bgLight)" stroke="url(#borderLight)" stroke-width="1.5" />
+  <rect x="2" y="2" width="876" height="256" rx="18" fill="url(#gridLight)" />
+
+  <!-- Status Micro-Pill -->
+  <g transform="translate(36, 30)">
+    <rect x="0" y="0" width="418" height="26" rx="13" fill="#eae6dc" stroke="#d9d5ca" stroke-width="1" />
+    <circle cx="14" cy="13" r="4.5" fill="#1f4d3a" />
+    <text x="26" y="17" fill="#1f4d3a" class="mono" font-size="11.5" font-weight="600" letter-spacing="0.2">
+      STATUS: OPEN TO AI/ML &amp; SWE ROLES — 2027
+    </text>
+  </g>
+
+  <!-- Editorial Headline: Laxmi Sanas -->
+  <text x="36" y="112" fill="#141414" class="serif" font-size="48" font-weight="400" letter-spacing="-1">
+    Laxmi Sanas
+  </text>
+
+  <!-- Role Subtitle -->
+  <g transform="translate(36, 142)">
+    <text x="0" y="0" fill="#1f4d3a" class="mono" font-size="14.5" font-weight="600" letter-spacing="-0.1">
+      AI &amp; Data Science Engineer
+    </text>
+    <text x="215" y="0" fill="#a8a29e" class="sans" font-size="14">|</text>
+    <text x="230" y="0" fill="#141414" class="sans" font-size="14" font-weight="500">
+      Full-Stack Developer &amp; ML Researcher
+    </text>
+  </g>
+
+  <!-- Value Statement -->
+  <text x="36" y="176" fill="#6b6b6b" class="sans" font-size="13.5" font-weight="400">
+    Undergraduate researcher building algorithmic recourse models, distributed pipelines, and production systems.
+  </text>
+
+  <!-- Metric Badges Row -->
+  <g transform="translate(36, 204)">
+    <!-- Badge 1: Academic Rank -->
+    <rect x="0" y="0" width="246" height="30" rx="8" fill="#eae6dc" stroke="#d9d5ca" stroke-width="1" />
+    <text x="12" y="19" fill="#1f4d3a" font-size="12">🏆</text>
+    <text x="32" y="19" fill="#141414" class="mono" font-size="11" font-weight="600">
+      SITRC Rank 1 • CGPA 9.34 / 10
+    </text>
+
+    <!-- Badge 2: Repositories -->
+    <rect x="258" y="0" width="232" height="30" rx="8" fill="#eae6dc" stroke="#d9d5ca" stroke-width="1" />
+    <text x="270" y="19" fill="#1f4d3a" font-size="12">⚡</text>
+    <text x="290" y="19" fill="#141414" class="mono" font-size="11" font-weight="600">
+      65+ Public GitHub Repos
+    </text>
+
+    <!-- Badge 3: NASA Space Apps -->
+    <rect x="502" y="0" width="294" height="30" rx="8" fill="#eae6dc" stroke="#d9d5ca" stroke-width="1" />
+    <text x="514" y="19" fill="#1f4d3a" font-size="12">🚀</text>
+    <text x="534" y="19" fill="#141414" class="mono" font-size="11" font-weight="600">
+      NASA Space Apps Global Nominee (Top 10%)
+    </text>
+  </g>
+</svg>

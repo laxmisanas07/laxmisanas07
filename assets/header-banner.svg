@@ -24,7 +24,7 @@
     <!-- Text Gradient for Name -->
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="55%" stop-color="#f1f5f9" />
+      <stop offset="55%" stop-color="#f8fafc" />
       <stop offset="100%" stop-color="#93c5fd" />
     </linearGradient>
 
@@ -43,6 +43,7 @@
   </defs>
 
   <style>
+    .serif { font-family: 'Instrument Serif', 'Fraunces', Georgia, serif; }
     .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, monospace; }
     .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Geist', Roboto, sans-serif; }
     .status-pulse { animation: pulse 2.5s infinite; }
@@ -59,7 +60,7 @@
   <rect x="2" y="2" width="876" height="256" rx="18" fill="url(#glowBL)" />
 
   <!-- Status Micro-Pill -->
-  <g transform="translate(36, 32)">
+  <g transform="translate(36, 30)">
     <rect x="0" y="0" width="418" height="26" rx="13" fill="#0f172a" fill-opacity="0.8" stroke="#1e293b" stroke-width="1" />
     <circle cx="14" cy="13" r="4.5" fill="#10b981" class="status-pulse" />
     <text x="26" y="17" fill="#cbd5e1" class="mono" font-size="11.5" font-weight="500" letter-spacing="0.2">
@@ -67,8 +68,8 @@
     </text>
   </g>
 
-  <!-- Headline: Laxmi Sanas -->
-  <text x="36" y="112" fill="url(#nameGrad)" class="sans" font-size="44" font-weight="800" letter-spacing="-1.2">
+  <!-- Headline: Laxmi Sanas (Using Instrument Serif) -->
+  <text x="36" y="112" fill="url(#nameGrad)" class="serif" font-size="48" font-weight="400" letter-spacing="-0.5">
     Laxmi Sanas
   </text>
 
@@ -85,7 +86,7 @@
 
   <!-- Value Statement -->
   <text x="36" y="176" fill="#94a3b8" class="sans" font-size="13" font-weight="400">
-    Building algorithmic recourse models, distributed systems, and real-time cybersecurity architectures.
+    Undergraduate researcher building algorithmic recourse models, distributed pipelines, and production systems.
   </text>
 
   <!-- Metric Badges Row -->
